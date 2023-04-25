@@ -1,0 +1,23 @@
+button {
+    position: relative; /* position the buttons relative to its normal position on the web page*/
+    height: 70px;
+    width: 60px;
+    color: whitesmoke;
+    outline: 2px solid black;
+    border: none;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: default;
+}
+
+.btn {
+    font-size: 1.5rem;
+    border-radius: 0.1rem;
+}
+
+.container-fluid {
+    padding: 70px;
+}
+
+body {
+    font-size: 1.5rem;
+}
